@@ -1,0 +1,565 @@
+# depslib dependency file v1.0
+1586961704 source:c:\users\lehuy\onedrive\desktop\lehuyvu\flappybird\bird.cpp
+	"bird.h"
+	"game.h"
+	"loadbird.h"
+	<string>
+
+1586961691 c:\users\lehuy\onedrive\desktop\lehuyvu\flappybird\bird.h
+	<SDL.h>
+
+1583890677 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1583890677 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\begin_code.h
+
+1583890678 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\close_code.h
+
+1583890677 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1583890677 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1583890677 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1583890677 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1583890678 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1583890677 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1583890677 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\lehuy\onedrive\desktop\sdl2\sdl2\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1586969061 c:\users\lehuy\onedrive\desktop\lehuyvu\flappybird\game.h
+	<SDL.h>
+
+1586945894 c:\users\lehuy\onedrive\desktop\lehuyvu\flappybird\loadtexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+
+1587711835 source:c:\users\lehuy\onedrive\desktop\lehuyvu\flappybird\game.cpp
+	"game.h"
+	"loadtexture.h"
+	"bird.h"
+	"pipe.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+
+1586929638 c:\users\lehuy\onedrive\desktop\lehuyvu\flappybird\pipe.h
+	"bird.h"
+	<SDL.h>
+
+1561870368 c:\users\lehuy\onedrive\desktop\sdl2\sdl2_image\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1586959345 source:c:\users\lehuy\onedrive\desktop\lehuyvu\flappybird\loadtexture.cpp
+	"loadtexture.h"
+	<string>
+
+1586926567 source:c:\users\lehuy\onedrive\desktop\lehuyvu\flappybird\main.cpp
+	"game.h"
+	<SDL.h>
+
+1586926031 source:c:\users\lehuy\onedrive\desktop\lehuyvu\flappybird\pipe.cpp
+	"pipe.h"
+	"game.h"
+	<time.h>
+	<stdlib.h>
+
+1586961872 source:c:\users\lehuy\onedrive\desktop\lehuyvu\flappybird\loadbird.cpp
+	"loadbird.h"
+	<string>
+	<iostream>
+
+1586957449 c:\users\lehuy\onedrive\desktop\lehuyvu\flappybird\loadbird.h
+	<SDL.h>
+
+1591177370 source:c:\users\lehuy\onedrive\desktop\game\flappybird\game.cpp
+	"game.h"
+	"LTexture.h"
+	"bird.h"
+	"pipe.h"
+	"text.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+
+1590680594 c:\users\lehuy\onedrive\desktop\game\flappybird\game.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1590496843 c:\users\lehuy\onedrive\desktop\game\flappybird\loadtexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<string>
+	<time.h>
+
+1591175251 c:\users\lehuy\onedrive\desktop\game\flappybird\bird.h
+	<SDL.h>
+	<SDL_mixer.h>
+	<SDL_image.h>
+	<string>
+
+1590679892 c:\users\lehuy\onedrive\desktop\game\flappybird\pipe.h
+	<bits/stdc++.h>
+	"bird.h"
+	<SDL.h>
+
+1586961872 source:c:\users\lehuy\onedrive\desktop\game\flappybird\loadbird.cpp
+	"loadbird.h"
+	<string>
+	<iostream>
+
+1586957449 c:\users\lehuy\onedrive\desktop\game\flappybird\loadbird.h
+	<SDL.h>
+
+1590658223 source:c:\users\lehuy\onedrive\desktop\game\flappybird\loadtexture.cpp
+	"loadtexture.h"
+	<string>
+
+1590578268 source:c:\users\lehuy\onedrive\desktop\game\flappybird\main.cpp
+	"game.h"
+	<SDL.h>
+
+1590679940 source:c:\users\lehuy\onedrive\desktop\game\flappybird\pipe.cpp
+	"pipe.h"
+	"game.h"
+	<time.h>
+
+1591175438 source:c:\users\lehuy\onedrive\desktop\game\flappybird\bird.cpp
+	"bird.h"
+	"game.h"
+
+1590487594 c:\users\lehuy\onedrive\desktop\game\flappybird\menu.h
+
+1540997992 c:\users\lehuy\onedrive\desktop\sdl2\sdl2_mixer\i686-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547322281 c:\users\lehuy\onedrive\desktop\sdl2\sdl2_ttf\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1590489144 source:c:\users\lehuy\onedrive\desktop\game\flappybird\menu.cpp
+
+1591177901 source:c:\users\lehuy\onedrive\desktop\game\flappybird\text.cpp
+	"text.h"
+
+1591177937 c:\users\lehuy\onedrive\desktop\game\flappybird\text.h
+	"game.h"
+	<string>
+
+1590658923 source:c:\users\lehuy\onedrive\desktop\game\flappybird\ltexture.cpp
+	"LTexture.h"
+	<string>
+
+1590658904 c:\users\lehuy\onedrive\desktop\game\flappybird\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+
+1591175438 source:c:\users\lehuy\onedrive\desktop\lehuyvu_19020056\flappybird\bird.cpp
+	"bird.h"
+	"game.h"
+
+1591177981 c:\users\lehuy\onedrive\desktop\lehuyvu_19020056\flappybird\bird.h
+	<SDL.h>
+	<SDL_mixer.h>
+	<SDL_image.h>
+	<string>
+
+1590680594 c:\users\lehuy\onedrive\desktop\lehuyvu_19020056\flappybird\game.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1591177955 source:c:\users\lehuy\onedrive\desktop\lehuyvu_19020056\flappybird\game.cpp
+	"game.h"
+	"LTexture.h"
+	"bird.h"
+	"pipe.h"
+	"text.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+
+1590658904 c:\users\lehuy\onedrive\desktop\lehuyvu_19020056\flappybird\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+
+1590679892 c:\users\lehuy\onedrive\desktop\lehuyvu_19020056\flappybird\pipe.h
+	<bits/stdc++.h>
+	"bird.h"
+	<SDL.h>
+
+1591177937 c:\users\lehuy\onedrive\desktop\lehuyvu_19020056\flappybird\text.h
+	"game.h"
+	<string>
+
+1590658923 source:c:\users\lehuy\onedrive\desktop\lehuyvu_19020056\flappybird\ltexture.cpp
+	"LTexture.h"
+	<string>
+
+1590578268 source:c:\users\lehuy\onedrive\desktop\lehuyvu_19020056\flappybird\main.cpp
+	"game.h"
+	<SDL.h>
+
+1590679940 source:c:\users\lehuy\onedrive\desktop\lehuyvu_19020056\flappybird\pipe.cpp
+	"pipe.h"
+	"game.h"
+	<time.h>
+
+1591177901 source:c:\users\lehuy\onedrive\desktop\lehuyvu_19020056\flappybird\text.cpp
+	"text.h"
+
